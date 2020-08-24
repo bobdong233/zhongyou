@@ -382,24 +382,24 @@
                 </TransformGroup>
             </Rectangle.RenderTransform>
         </Rectangle>
-        <Path  Stroke="Black" StrokeThickness="1" StrokeDashArray="0" StrokeDashCap="Round" Canvas.Left="0" Canvas.Top="0"
-			Data="M 100,100 A 100,100 0 1 0 300,100" Margin="230.458,215.175,446.034,151.749" RenderTransformOrigin="0.5,0.5" Stretch="Fill">
+        <Path  Stroke="Black" StrokeThickness="1" StrokeDashArray="0" StrokeDashCap="Round" HorizontalAlignment="Left"  VerticalAlignment="Top"
+			Data="M 100,100 A 100,100 0 1 0 300,100" Margin="230.194,214.812,0,0" RenderTransformOrigin="0.5,0.5" Stretch="Fill" Height="51.419" Width="114.681">
             <Path.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
-                    <SkewTransform/>
+                    <SkewTransform AngleX="0.745"/>
                     <RotateTransform Angle="90.235"/>
-                    <TranslateTransform/>
+                    <TranslateTransform X="-0.001" Y="0.328"/>
                 </TransformGroup>
             </Path.RenderTransform>
         </Path>
-        <Path  Stroke="Black" StrokeThickness="1" StrokeDashArray="0" StrokeDashCap="Round"
-            Data="M 100,100 A 100,100 0 1 0 300,100" Margin="418.458,215.675,258.034,151.249" RenderTransformOrigin="0.5,0.5" Stretch="Fill">
+        <Path  Stroke="Black" StrokeThickness="1" StrokeDashArray="0" StrokeDashCap="Round"  HorizontalAlignment="Left"  VerticalAlignment="Top"
+            Data="M 100,100 A 100,100 0 1 0 300,100" Margin="419.745,216.422,0,0" RenderTransformOrigin="0.5,0.5" Stretch="Fill" Height="50.02" Width="114.921">
             <Path.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
                     <SkewTransform/>
-                    <RotateTransform Angle="271.654"/>
+                    <RotateTransform Angle="270.501"/>
                     <TranslateTransform/>
                 </TransformGroup>
             </Path.RenderTransform>
